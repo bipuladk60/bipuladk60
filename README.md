@@ -18,7 +18,7 @@
 
 ## Reach Out
 
-- 📫 How to reach me: (mailto:bipul.adhikari.2003@gmail.com)
+- 📫 How to reach me: [bipul.adhikari.2003@gmail.com](mailto:bipul.adhikari.2003@gmail.com)
 - 💼 **LinkedIn:** ([https://linkedin.com](https://www.linkedin.com/in/bipul-adhikari/))
 
 Feel free to connect with me if you think we can work together on something exciting or just chat about technology!
